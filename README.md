@@ -1,4 +1,6 @@
-# hardhat-contract-quickstart
+# withdraw-with-signatures
+
+_A contract that you can withdraw ETH using signatures_
 
 ## Getting Started 🚀
 
@@ -13,13 +15,13 @@ _You need to have installed nodejs_
 _First you need to clone this repository_
 
 ```
-git clone https://github.com/rafius97/hardhat-contract-quickstart/
+git clone https://github.com/rafius97/withdraw-with-signatures/
 ```
 
 _Make sure you are in the right folder_
 
 ```
-cd hardhat-contract-quickstart/
+cd withdraw-with-signatures/
 ```
 
 _Next, you must to install the dependencies_
